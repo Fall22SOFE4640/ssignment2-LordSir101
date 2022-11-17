@@ -1,5 +1,5 @@
-##Tyler Wunderlich
-##100707158
+## Tyler Wunderlich
+## 100707158
 
 # assignment2
 
